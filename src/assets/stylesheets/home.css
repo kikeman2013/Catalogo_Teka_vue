@@ -1,0 +1,76 @@
+#app {
+    font-family: 'Avenir', 'Helvetica', 'Arial', 'sans-serif';
+    --webkit-fond-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #2c3e50;
+    /*margin-top: 60px;*/
+    width: 100%;
+}
+
+#inpire {
+    font-family: 'Avenir', 'Helvetica', 'Arial', 'sans-serif';
+}
+
+.container.fill-height {
+    align-items: normal;
+}
+
+a.side_bar_link {
+    text-decoration: none;
+}
+
+.v-card_title--primary , .v-card_text {
+    text-align: left;
+}
+
+.v-card {
+    height: 100% !important;
+}
+
+.white-text {
+    color: white !important;
+}
+.golden-text {
+    color: gold !important;
+}
+.black-text {
+    color: black !important;
+}
+.text-20 {
+    font-size: 20px !important;
+}
+.text-25 {
+    font-size: 25px;
+}
+.text-40 {
+    font-size: 40px !important;
+}
+.text-50 {
+    font-size: 50px !important;
+}
+
+.margin-20{
+    margin-top: 20px !important;
+}
+
+.margin-30{
+    margin-top: 30px !important;
+}
+.margin-30-left{
+    margin-left: 30px !important;
+}
+
+.margin-10{
+    margin: 10px !important;    
+}
+.margin-5{
+    margin: 5px !important; 
+}
+
+.margin-2{
+    margin-bottom: 2px !important; 
+}
+.background-red {
+    background-color: red;
+}
